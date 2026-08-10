@@ -257,6 +257,28 @@ Typical operations demonstrated include:
 4. Receiving data from a slave device
 5. Generating a Stop condition
 
+# Demo Directory Guide
+
+```text
+demo/
+│
+├── I2C_Demo.c
+├── I2C_Demo.hex
+├── I2C_Demo.pdsprj
+├── I2C_Demo_Schematic.pdf
+├── I2C_Demo.mp4
+└── README.md
+```
+
+## Files
+
+* `I2C_Demo.c` — Test source code
+* `I2C_Demo.hex` — Compiled firmware
+* `I2C_Demo.pdsprj` — Proteus simulation project
+* `I2C_Demo_Schematic.pdf` — Test schematic
+* `I2C_Demo.mp4` — Test demonstration video
+
+
 Refer to the source files in the `demo` folder for a practical example of driver usage.
 
 ---

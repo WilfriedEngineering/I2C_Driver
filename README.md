@@ -117,8 +117,8 @@ Initializes and configures the I²C bus.
 
 **Parameters:**
 
-* `f_osc` — Microcontroller oscillator frequency.
-* `f_bus` — Desired I²C bus frequency:
+* `f_osc` — Microcontroller oscillator frequency, expressed in Hertz (Hz).
+* `f_bus` — Desired I²C bus frequency, expressed in Hertz (Hz):
 
   * **100 kHz** for Standard Mode
   * **400 kHz** for Fast Mode

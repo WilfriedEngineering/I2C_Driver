@@ -272,11 +272,11 @@ demo/
 
 ## Files
 
-* `I2C_Demo.c` — Test source code
-* `I2C_Demo.hex` — Compiled firmware
-* `I2C_Demo.pdsprj` — Proteus simulation project
-* `I2C_Demo_Schematic.pdf` — Test schematic
-* `I2C_Demo.mp4` — Test demonstration video
+* `BUS_I2C_Test.c` — Test source code
+* `I2C_BUS_Test.X.production.hex` — Compiled firmware
+* `I2C_BUS_Test.pdsprj` — Proteus simulation project
+* `I2C_BUS_Test.PDF` — Test schematic
+* `I2C_BUS_Test.mp4` — Test demonstration video
 
 
 Refer to the source files in the `demo` folder for a practical example of driver usage.

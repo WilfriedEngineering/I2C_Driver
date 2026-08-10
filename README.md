@@ -270,7 +270,7 @@ demo/
 └── README.md
 ```
 
-## Files
+### Files
 
 * `BUS_I2C_Test.c` — Test source code
 * `I2C_BUS_Test.X.production.hex` — Compiled firmware

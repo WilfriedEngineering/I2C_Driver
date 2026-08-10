@@ -257,7 +257,7 @@ Typical operations demonstrated include:
 4. Receiving data from a slave device
 5. Generating a Stop condition
 
-# Demo Directory Guide
+### Demo Directory Guide
 
 ```text
 demo/

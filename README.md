@@ -262,12 +262,12 @@ Typical operations demonstrated include:
 ```text
 demo/
 │
-├── I2C_Demo.c
-├── I2C_Demo.hex
-├── I2C_Demo.pdsprj
-├── I2C_Demo_Schematic.pdf
-├── I2C_Demo.mp4
-└── README.md
+├── BUS_I2C_Test.c
+├── I2C_BUS_Test.X.production.hex
+├── I2C_BUS_Test.pdsprj
+├── I2C_BUS_Test.PDF
+├── I2C_BUS_Test.mp4
+
 ```
 
 ### Files

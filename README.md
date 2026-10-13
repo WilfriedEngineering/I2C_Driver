@@ -264,7 +264,6 @@ demo/
 │
 ├── BUS_I2C_Test.c
 ├── I2C_BUS_Test.X.production.hex
-├── I2C_BUS_Test.pdsprj
 ├── I2C_BUS_Test.PDF
 ├── I2C_BUS_Test.mp4
 
